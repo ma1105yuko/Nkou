@@ -304,33 +304,33 @@ a {
 }
 
 /* 共通　*/
-.topicA h2,
-.topicB h2 {
+.policy h2,
+.charm h2 {
     font-size: 26px;
     font-weight: normal;
     margin: 0 0 10px;
     }
-.topicA p img
-.topicB p img {
+.policy p img
+.charm p img {
     height: 3px;
     margin: 0 0 30px;
 }
 /* 教育方針　*/
-.topicA-detail {
+.policy-detail {
     display: flex;
     height: 295px;
     justify-content: space-between;
 }
-.topicA-detail ul {
+.policy-detail ul {
     padding: 0;
 }
-.topicA-detail ul li {
+.policy-detail ul li {
     font-size: 19px;
     height: 53px;
     line-height: 53px;
     margin-bottom: 30px;
 }
-.topicA-detail ul li span {
+.policy-detail ul li span {
     font-size: 24px;
     border-right: 1px solid #1c1c1c;
     display: inline-block;
@@ -338,10 +338,10 @@ a {
     vertical-align: middle;
     margin-right: 15px;
 }
-.topicA-detail ul li:first-child span {
+.policy-detail ul li:first-child span {
     letter-spacing: 1.2rem;
 }
-.topicA-detail img {
+.policy-detail img {
     width: 624px;
     height: 285px;
 }
@@ -386,32 +386,32 @@ a {
 
 /* N高の魅力　*/
 
-.topicB-image img {
+.charm-image img {
 width: 490px;
 height: 515px;
 }
-.topicB-detail {
+.charm-detail {
     display: flex;
     justify-content: space-between;
     margin-bottom: 80px;
 }
-.topicB-text {
+.charm-text {
     width: 490px;
     height: 336px;
 }
-.topicB-text h3 {
+.charm-text h3 {
     font-size: 25px;
     font-weight: normal;
     border-bottom: 1px solid #1c1c1c;
     padding-bottom: 25px;
     margin: 0 0 10px;
 }
-.topicB-text .appeal {
+.charm-text .appeal {
     color: #272727;
     text-align: justify;
     margin: 0 0 25px;
 }
-.topicB-text .tip {
+.charm-text .tip {
     font-size: 12px;
     margin: 0;
 }
